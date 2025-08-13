@@ -1,5 +1,3 @@
-# FILE: /github-pages-website/github-pages-website/blog/post2.md
-
 # My Second Blog Post
 
 Welcome to my second blog post! In this post, I want to share some insights about my journey in web development and the technologies that have inspired me.

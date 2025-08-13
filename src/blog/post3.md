@@ -1,4 +1,4 @@
-# FILE: /github-pages-website/github-pages-website/blog/post3.md
+# FILE: /github-pages-website/github-pages-website/src/blog/post3.md
 ---
 title: "Blog Post 3"
 date: "2023-10-01"

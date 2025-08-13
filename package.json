@@ -1,15 +1,20 @@
 {
   "name": "github-pages-website",
   "version": "1.0.0",
-  "description": "A personal website hosted on GitHub Pages, showcasing my resume and blog posts.",
-  "main": "index.html",
+  "description": "A personal website built with React, showcasing my resume and blog posts.",
+  "main": "src/index.js",
   "scripts": {
-    "build": "postcss assets/css/styles.css -o assets/css/output.css",
-    "watch": "postcss assets/css/styles.css -o assets/css/output.css --watch"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "author": "[Your Name]",
   "license": "MIT",
   "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
     "tailwindcss": "^2.2.19",
     "postcss": "^8.3.6",
     "autoprefixer": "^10.3.7"

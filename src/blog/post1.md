@@ -1,9 +1,3 @@
-# FILE: /github-pages-website/github-pages-website/blog/post1.md
----
-title: "My First Blog Post"
-date: "2023-10-01"
----
-
 # Welcome to My Blog!
 
 Hello everyone! This is my first blog post on my new website. I'm excited to share my thoughts, experiences, and projects with you.
