@@ -1,0 +1,20 @@
+{
+  "name": "github-pages-website",
+  "version": "1.0.0",
+  "description": "A personal website hosted on GitHub Pages, showcasing my resume and blog posts.",
+  "main": "index.html",
+  "scripts": {
+    "build": "postcss assets/css/styles.css -o assets/css/output.css",
+    "watch": "postcss assets/css/styles.css -o assets/css/output.css --watch"
+  },
+  "author": "[Your Name]",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^2.2.19",
+    "postcss": "^8.3.6",
+    "autoprefixer": "^10.3.7"
+  },
+  "devDependencies": {
+    "postcss-cli": "^8.3.1"
+  }
+}
