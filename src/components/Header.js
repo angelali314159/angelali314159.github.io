@@ -1,4 +1,3 @@
-Here are the contents for the file /github-pages-website/github-pages-website/src/components/Header.js:
 
 import React from 'react';
 import { Link } from 'react-router-dom';

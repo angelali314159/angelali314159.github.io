@@ -1,4 +1,3 @@
-Here is the content for the file /github-pages-website/github-pages-website/src/components/Home.js:
 
 import React from 'react';
 
